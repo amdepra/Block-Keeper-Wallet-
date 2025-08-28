@@ -1,4 +1,5 @@
 # Block-Keeper-Wallet-
+@blockkeeperwallet
 # 🛡️ BlockKeeper - Next-Gen Web3 Wallet
 <div align="center">
   <img src="attached_assets/IMG_٢٠٢٥٠٨٠٩_٠٠٤٦٣٤_1754877882332.png" alt="BlockKeeper Logo" width="120" height="120">
@@ -105,7 +106,7 @@ Redistribution under any form without explicit written permission
 
 
 
-For licensing inquiries or commercial discussions, contact: Ahmed Ibrahim (blockkeper@gmail.com)
+For licensing inquiries or commercial discussions, contact: Amd Epra (blockkeper@gmail.com)
 
 
 ---
