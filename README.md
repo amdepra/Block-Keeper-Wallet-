@@ -1,5 +1,5 @@
-# 
-# ًں›،ï¸ڈ 🛡️ Restora Wallet – Next-Gen Web3 Security
+
+#🛡️ Restora Wallet – Next-Gen Web3 Security
 
 <div align="center">  
   <img src="assets/IMG_20250906_134054.jpg" alt="Restora Wallet Logo" width="120" height="120">  Secure • Smart • Multi-Layered
@@ -103,13 +103,13 @@ npm run dev
 
 🚨 To avoid scams, here are our ONLY official channels:
 
-🌍 Website: restorawallet.com
+🌍 Website: https://www.restorawallet.com/
 
-🐦 Twitter: x.com/RestoraWallet
+🐦 Twitter: https://www.x.com/RestoraWallet
 
-💬 Telegram: t.me/restorawallet
+💬 Telegram: https://www.t.me/restorawallet
 
-🎮 Discord: discord.gg/ymKVgf65Q9
+🎮 Discord: https://www.discord.gg/ymKVgf65Q9
 
 
 
