@@ -1,54 +1,86 @@
-# Block-Keeper-Wallet-
-@blockkeeperwallet
-# 🛡️ BlockKeeper - Next-Gen Web3 Wallet
-<div align="center">
-  <img src="attached_assets/IMG_٢٠٢٥٠٨٠٩_٠٠٤٦٣٤_1754877882332.png" alt="BlockKeeper Logo" width="120" height="120">
+# 
+# ًں›،ï¸ڈ 🛡️ Restora Wallet – Next-Gen Web3 Security
 
-  **Secure • Smart • Decentralized**  
-  🔒 Enterprise-Ready | 🌐 Multi-Chain | 🚀 Community-Driven  
-  📧 Contact: blockkeper@gmail.com
-</div>
+<div align="center">  
+  <img src="assets/IMG_20250906_134054.jpg" alt="Restora Wallet Logo" width="120" height="120">  Secure • Smart • Multi-Layered
+🔒 User-First | 🌐 Multi-Chain | ⚡ Unified Gas Fees
+📧 Contact: info@restorawallet.com
+
+</div>  
+---
+
+🚀 Executive Summary
+
+Restora Wallet is a next-generation Web3 wallet designed to fix the core vulnerabilities of traditional seed-phrase wallets.
+We introduce a multi-layered security model that combines:
+
+🔑 Trust Key (Password Protection) – mandatory before recovery and transactions.
+
+🌱 Non-Compatible Recovery Seeds – cannot be imported into other wallets, blocking seed-only exploits.
+
+
+Our mission: restore trust in crypto security by making Web3 safer and simpler for everyone.
+
 
 ---
 
-## 🚀 Executive Summary
-BlockKeeper is a **next-generation Web3 wallet** designed to solve the critical vulnerabilities of seed-phrase wallets.  
-Our solution introduces **password-based, seedless recovery** with enterprise-level encryption, ensuring user security without sacrificing accessibility.  
+✨ Key Features
 
-Built for **individuals, developers, and enterprises**, BlockKeeper combines **military-grade security**, **multi-chain support**, and a **unified gas payment system** to simplify Web3 adoption globally.
+🔐 Multi-Layer Security – Trust Key + Recovery Seed.
 
----
+🛡️ AES-256 Encryption – Enterprise-grade protection.
 
-## ✨ Key Features
-- 🔐 **Seedless Recovery** – Password-only wallet restoration  
-- 🛡️ **AES-256 Encryption** – Military-grade security  
-- 🚫 **Non-Importable Recovery Words** – Cannot be imported into external wallets (MetaMask, TrustWallet, etc.)  
-- 🌐 **Multi-Chain Support** – Ethereum, BSC, Polygon, Arbitrum, Base testnets  
-- ⚡ **FZ Token System** – Unified gas fees across chains  
-- 📱 **Mobile-Optimized** – Designed for iOS & Android browsers  
-- 📊 **Smart Analytics** – Real-time pricing, fee tracking, and full transaction history  
+🚫 Non-Importable Seeds – Seeds useless outside Restora.
 
----
+🌐 Multi-Chain Support – Ethereum, BNB Chain, Polygon, Arbitrum, Base (testnets + mainnets).
 
-## 🏗️ Technology Stack
-- **Frontend:** React + Vite + TypeScript  
-- **Backend:** Node.js (Express) + PostgreSQL + Drizzle ORM  
-- **Blockchain:** Multi-chain treasury system + FZ Token System  
-- **Security:** Proprietary recovery algorithm + AES encryption standards  
+⚡ Unified Gas Token ($FZ) – Pay all fees with one token.
+
+📱 Mobile-Optimized – Clean UI for iOS & Android users.
+
+📊 Smart Analytics – Real-time fees, token prices, and history.
+
+
 
 ---
 
-## 📂 Project Structure
+🏗️ Technology Stack
 
-BlockKeeper/ ├── client/                 # React frontend │   ├── components/         # Reusable UI components │   ├── pages/              # Application pages │   └── hooks/              # Custom React hooks ├── server/                 # Backend (API, blockchain integrations) │   ├── routes.ts           # API endpoints │   ├── storage.ts          # Database layer │   └── faucet.ts           # Treasury + chain handling ├── shared/                 # Shared schemas & types │   └── schema.ts └── assets/                 # Logos & static files
+Frontend: React + Vite + TypeScript
+
+Backend: Node.js (Express) + PostgreSQL + Drizzle ORM
+
+Blockchain: Multi-chain relayer + FZ Token system
+
+Security: Proprietary recovery algorithm + AES standards
+
+
 
 ---
 
-## ⚙️ Quick Start for Developers
-```bash
+📂 Project Structure
+
+RestoraWallet/
+├── client/                  # React frontend
+│   ├── components/          # Reusable UI components
+│   ├── pages/               # Application pages
+│   └── hooks/               # Custom React hooks
+├── server/                  # Backend (API, blockchain integrations)
+│   ├── routes.ts            # API endpoints
+│   ├── storage.ts           # Database layer
+│   └── relayer.ts           # Gas & transaction relayer
+├── shared/                  # Shared schemas & types
+│   └── schema.ts
+└── assets/                  # Logos & static files
+
+
+---
+
+⚙️ Quick Start for Developers
+
 # Clone repository
-git clone https://github.com/blockkeeperwallet/BlockKeeper.git
-cd BlockKeeper
+git clone https://github.com/restorawallet/RestoraWallet.git
+cd RestoraWallet
 
 # Install dependencies
 npm install
@@ -67,52 +99,30 @@ npm run dev
 
 ---
 
-🌍 Community & Collaboration
+🌐 Official Links
 
-We believe in open collaboration and welcome feedback from the Web3 ecosystem.
+🚨 To avoid scams, here are our ONLY official channels:
 
-💬 Telegram: t.me/block_keeper
+🌍 Website: restorawallet.com
 
-🐦 Twitter: @Block_keeper
+🐦 Twitter: x.com/RestoraWallet
 
-📝 Medium: block-keeper.medium.com
+💬 Telegram: t.me/restorawallet
 
-📧 Email: blockkeper@gmail.com
+🎮 Discord: discord.gg/ymKVgf65Q9
 
-
-🤝 Contributions (bug reports, feature requests, or improvements) are encouraged via GitHub Issues & Pull Requests.
 
 
 ---
 
-📄 License
+🤝 Contributing
 
-BlockKeeper is distributed under a Custom Educational License:
-
-✅ Permitted:
-
-Code review & educational use
-
-Research & proof-of-concept exploration
-
-Suggestions, bug reports, and community-driven improvements
-
-
-🚫 Not Permitted:
-
-Commercial or production use
-
-Redistribution under any form without explicit written permission
-
-
-
-For licensing inquiries or commercial discussions, contact: Amd Epra (blockkeper@gmail.com)
+We welcome contributions from developers, designers, and crypto enthusiasts.
+If you have skills in Web3 development, security, marketing, or community building, reach out on our Telegram.
 
 
 ---
 
-<div align="center">
-  <strong>Made with ❤️ by the BlockKeeper Community</strong>  
-  🌐 [Website](https://blockkeeper.app) • 📚 [Docs](https://docs.blockkeeper.app)
-</div>
-`
+📜 License
+
+This project is licensed under the MIT License – free to use, modify, and build upon.
